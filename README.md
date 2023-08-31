@@ -30,4 +30,4 @@ List each employee in the Sales and Development departments, including their emp
 
 List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
-you can find the full query in this file [data_analysis.sql](employeeSQL/data_analysis.sql)  
+  We can find the full query in this file [data_analysis.sql](employeeSQL/data_analysis.sql)  
