@@ -5,4 +5,6 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
 
 ## 1. Data Modeling
 For the Data modeling part, the employee data was organized using a method called Entity-Relationship Diagrams (ERD). This helped identify the relation between six main groups of data: employees, departments, salaries, job titles, department managers, and department employees. Each group had specific pieces of information connected to it. The ER diagram also gave insight on primary keys and foreign keys which are crucial concepts in relational databases that define relationships between different tables or entities.
-![EDR](employeeSQL/ERD/
+The ER diagram also looks as follows:
+
+![EDR](employeeSQL/ERD/ERD.png)
